@@ -1,0 +1,5 @@
+https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent
+
+newPanel.BackgroundImage = Image.FromFile(@"c:\Users\Maj\Desktop\C# vaje\WindowsFormsApp1\Figure\c_konj.png");
+
+https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/ - chess AI
